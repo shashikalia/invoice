@@ -1,0 +1,9 @@
+com\acme\dBManager\ObjectWriterImpl.class
+com\acme\invoice\Service\ServiceQuery.class
+com\acme\model\CustomerInvoiceLabel.class
+com\acme\dBManager\DBOperation.class
+com\acme\dBManager\EntityManagerImpl.class
+com\acme\dBManager\EntityManagerInstance.class
+com\acme\model\CustomerInvoice.class
+com\acme\model\CustomerInvoiceLabel$1.class
+com\acme\invoice\resources\Service.class

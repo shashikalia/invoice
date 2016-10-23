@@ -1,0 +1,1 @@
+0:0:0:0:0:0:0:1 - - [23/Oct/2016:23:20:56 +0200] "GET /sysapi/v1.0/invoices/?customerId=1&month=3 HTTP/1.1" 200 538 http-bio-8080-exec-1 5029
